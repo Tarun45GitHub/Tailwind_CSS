@@ -1,1 +1,0 @@
-# Tailwind_CSS by Hitesh Choudhary
